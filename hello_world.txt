@@ -1,3 +1,4 @@
 Hello KB!
 Test Commit
 Test Commit 2
+Test Commit 3 for checking commit message from VSCode
